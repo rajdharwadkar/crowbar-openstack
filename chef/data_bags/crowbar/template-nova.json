@@ -74,6 +74,7 @@
         "secret_uuid": ""
       },
       "kvm": {
+        "nested_virt": false,
         "ksm_enabled": false
       },
       "vcenter": {
